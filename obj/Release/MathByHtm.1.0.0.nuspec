@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MathByHtm</id>
+    <version>1.0.0</version>
+    <authors>MathByHtm</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\ADMIN\source\repos\Math\Math\bin\Release\net8.0-windows\MathByHtm.runtimeconfig.json" target="lib\net8.0-windows7.0\MathByHtm.runtimeconfig.json" />
+    <file src="C:\Users\ADMIN\source\repos\Math\Math\bin\Release\net8.0-windows\MathByHtm.dll" target="lib\net8.0-windows7.0\MathByHtm.dll" />
+  </files>
+</package>
